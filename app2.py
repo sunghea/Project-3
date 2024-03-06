@@ -5,8 +5,7 @@ from pymongo import MongoClient
 
 app = Flask(__name__)
 
-# MongoDB connection
-# MongoDB Atlas에 연결합니다.
+# MongoDB Atlas connection
 client = MongoClient('mongodb+srv://sungheacho0409:fJ7QeiELtywQJrBn@cluster0.eq3tib8.mongodb.net/')
 db = client['insurance_01']  
 collection = db['business_sector'] 
