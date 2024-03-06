@@ -60,13 +60,14 @@ I uploaded the database to MongoDB Atlas and utilized it to develop the app
 
 When the app is executed, you can visualize the number of offices for each sector with a bar graph. The sectors you can check are:
 
-Professional and hobby associations
-Insurance agency
-Insurance company
-Home insurance agency
-Financial planner
-Insurance broker
-Corporate office
+- Professional and hobby associations
+- Insurance agency
+- Insurance company
+- Home insurance agency
+- Financial planner
+- Insurance broker
+- Corporate office
+  
 ![image](https://github.com/sunghea/Project3_Final/assets/143130002/b3d20800-65e1-4b59-bd6e-ade03bc5e1d3)
 
 When you click on a bar, you can view the company name and phone number for that sector on the right side.
