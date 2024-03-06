@@ -54,6 +54,7 @@ I used web data to build an app focusing on the business section of Google searc
 ![image](https://github.com/sunghea/Project3_Final/assets/143130002/2651d903-aca7-4797-8ad8-78f14ca68c41)
 
 I uploaded the database to MongoDB Atlas and utilized it to develop the app
+
 ![image](https://github.com/sunghea/Project3_Final/assets/143130002/82ce92bd-8022-4b80-aabb-9967efd38f2e)
 ![image](https://github.com/sunghea/Project3_Final/assets/143130002/b3047f66-a198-4baf-bfd9-0258a68b0586)
 
