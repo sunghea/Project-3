@@ -55,9 +55,20 @@ I used web data to build an app focusing on the business section of Google searc
 
 I uploaded the database to MongoDB Atlas and utilized it to develop the app
 ![image](https://github.com/sunghea/Project3_Final/assets/143130002/82ce92bd-8022-4b80-aabb-9967efd38f2e)
+![image](https://github.com/sunghea/Project3_Final/assets/143130002/b3047f66-a198-4baf-bfd9-0258a68b0586)
 
+When the app is executed, you can visualize the number of offices for each sector with a bar graph. The sectors you can check are:
+
+Professional and hobby associations
+Insurance agency
+Insurance company
+Home insurance agency
+Financial planner
+Insurance broker
+Corporate office
 ![image](https://github.com/sunghea/Project3_Final/assets/143130002/b3d20800-65e1-4b59-bd6e-ade03bc5e1d3)
 
+When you click on a bar, you can view the company name and phone number for that sector on the right side.
 ![image](https://github.com/sunghea/Project3_Final/assets/143130002/45b6eef8-eb2f-408f-9dce-da30015364d9)
 
 
