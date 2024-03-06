@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Insurance Company Infomation</title>
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        #container {
+            display: flex;
+            align-items: stretch;
+            height: 500px;
+        }
+        #plot, #sectorInfo, #map {
+            flex: 1;
+            padding: 20px;
+            overflow: auto;
+        }
+        #plot {
+            background-color: #f0f0f0;
+        }
+        #sectorInfo {
+            background-color: #e0e0e0;
+            font-size: 12px;
+        }
+        #map {
+            background-color: #fff; 
+            height: 500px;
+        }
+    </style>
+</head>
+<body>
+    <div id="container">
+        <div id="plot">
+            <!-- Plot will be loaded here -->
+        </div>
+        <div id="sectorInfo">
+            <!-- Company Name: Call Number 리스트를 여기에 표시 -->
+        </div>
+    </div>
+    <div id="map">
+        <!-- Map will be loaded here -->
+    </div>
+    <!-- Load JavaScript file from static directory -->
+    <script src="{{ url_for('static', filename='js/logic1.js') }}"></script>
+
+</body>
+</html>
