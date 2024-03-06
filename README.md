@@ -58,19 +58,20 @@ I uploaded the database to MongoDB Atlas and utilized it to develop the app
 ![image](https://github.com/sunghea/Project3_Final/assets/143130002/82ce92bd-8022-4b80-aabb-9967efd38f2e)
 ![image](https://github.com/sunghea/Project3_Final/assets/143130002/b3047f66-a198-4baf-bfd9-0258a68b0586)
 
-When the app is executed, you can visualize the number of offices for each sector with a bar graph. The sectors you can check are:
+When the app is executed, you can visualize the number of offices for each sector with a bar graph. The sectors available for examination include:
 
-- Professional and hobby associations
-- Insurance agency
-- Insurance company
-- Home insurance agency
-- Financial planner
-- Insurance broker
-- Corporate office
+Professional and Hobby Associations
+Insurance Agency
+Insurance Company
+Home Insurance Agency
+Financial Planner
+Insurance Broker
+Corporate Office
+Each sector is represented by a bar in the graph, allowing for easy comparison of the number of offices across different sectors.
   
 ![image](https://github.com/sunghea/Project3_Final/assets/143130002/b3d20800-65e1-4b59-bd6e-ade03bc5e1d3)
 
-When you click on a bar, you can view the company name and phone number for that sector on the right side.
+Additionally, clicking on a specific bar provides detailed information such as the company name and phone number for that sector, displayed on the right side of the graph.
 ![image](https://github.com/sunghea/Project3_Final/assets/143130002/45b6eef8-eb2f-408f-9dce-da30015364d9)
 
 
